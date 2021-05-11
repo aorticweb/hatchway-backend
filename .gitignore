@@ -1,0 +1,4 @@
+Back-end Assessment-Blog Posts.pdf
+__pycache__
+.pytest_cache
+*.sqlite
